@@ -2,10 +2,10 @@ POST http://localhost:5272/Api/Consumo
 Content-Type: application/json
 
 {
-  "cpf": "12345678900",        // apenas dígitos
+  "cpf": "12345678900",        
   "mes": 10,
   "ano": 2025,
   "m3Consumidos": 37.50,
-  "bandeira": "Vermelha1",     // se usar enum, mantenha o nome igual
+  "bandeira": "Vermelha1",    
   "possuiEsgoto": true
 }

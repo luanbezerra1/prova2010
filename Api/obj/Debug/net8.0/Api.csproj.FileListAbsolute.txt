@@ -156,3 +156,4 @@
 /Users/luanbezerra/Desktop/prova v2/Api/obj/Debug/net8.0/Api.pdb
 /Users/luanbezerra/Desktop/prova v2/Api/obj/Debug/net8.0/Api.genruntimeconfig.cache
 /Users/luanbezerra/Desktop/prova v2/Api/obj/Debug/net8.0/ref/Api.dll
+/Users/luanbezerra/Desktop/prova v2/Api/obj/Debug/net8.0/Api.sourcelink.json

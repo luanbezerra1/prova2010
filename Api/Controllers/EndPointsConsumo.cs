@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Api.Models;
 
+namespace Api.Controllers;
+
 public static class MapEndpointsConsumo
 {
     public static void MapEndpointConsumo(this WebApplication app)
